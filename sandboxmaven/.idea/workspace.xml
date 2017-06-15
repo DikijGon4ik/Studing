@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b98b340a-b8c3-4959-9562-1452ba6981e7" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.gitignore" afterPath="$PROJECT_DIR$/../.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sandboxgradle/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../sandboxgradle/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sandboxgradle/src/main/java/Rectangle.java" afterPath="$PROJECT_DIR$/../sandboxgradle/src/main/java/Rectangle.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sandboxgradle/src/main/java/Square.java" afterPath="$PROJECT_DIR$/../sandboxgradle/src/main/java/Square.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sandboxgradle/src/main/java/meProg.java" afterPath="$PROJECT_DIR$/../sandboxgradle/src/main/java/meProg.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -637,7 +636,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="2283" y="76" width="1250" height="935" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
