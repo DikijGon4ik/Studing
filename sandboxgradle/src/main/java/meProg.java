@@ -10,19 +10,11 @@ public static void hello(String somebody){
   double a = 5;
   double b = 2;
 
-  Square s = new Square(5);
-  System.out.println("Площадь квадрата = " + area(s));
+  Square square = new Square(5);
+  System.out.println("Площадь квадрата = " + square.area());
 
-  Rectangle r = new Rectangle(2,4);
-  System.out.println("Площадь прямоугольника = " + area(r));
-
+  Rectangle rectangle = new Rectangle(2,4);
+  System.out.println("Площадь прямоугольника = " + rectangle.area());
 }
 
-public static double area(Square s){
-  return s.a;
-}
-
-public static double area(Rectangle r){
-  return r.a*r.b;
-}
 }

@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b98b340a-b8c3-4959-9562-1452ba6981e7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../sandboxgradle/src/main/java/Rectangle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../sandboxgradle/src/main/java/Square.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sandboxgradle/build/classes/main/meProg.class" afterPath="$PROJECT_DIR$/../sandboxgradle/build/classes/main/meProg.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sandboxgradle/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../sandboxgradle/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sandboxgradle/src/main/java/Rectangle.java" afterPath="$PROJECT_DIR$/../sandboxgradle/src/main/java/Rectangle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sandboxgradle/src/main/java/Square.java" afterPath="$PROJECT_DIR$/../sandboxgradle/src/main/java/Square.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sandboxgradle/src/main/java/meProg.java" afterPath="$PROJECT_DIR$/../sandboxgradle/src/main/java/meProg.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
